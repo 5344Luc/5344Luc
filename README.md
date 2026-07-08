@@ -6,9 +6,9 @@
 
 I enjoy turning complex business workflows into clean, reliable, and maintainable software. My work focuses on HRIS systems, backend development, SQL performance tuning, clean architecture, and practical tools that help users work faster with better data.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=5344Louie&style=for-the-badge&color=0e75b6)](https://github.com/5344Louie)
-[![GitHub Followers](https://img.shields.io/github/followers/5344Louie?style=for-the-badge&logo=github)](https://github.com/5344Louie?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/5344Louie?style=for-the-badge&logo=github)](https://github.com/5344Louie?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=5344Luc&style=for-the-badge&color=0e75b6)](https://github.com/5344Luc)
+[![GitHub Followers](https://img.shields.io/github/followers/5344Luc?style=for-the-badge&logo=github)](https://github.com/5344Luc?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/5344Luc?style=for-the-badge&logo=github)](https://github.com/5344Luc?tab=repositories)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -128,11 +128,10 @@ I enjoy turning complex business workflows into clean, reliable, and maintainabl
 
 ### 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5344Louie/5344Louie/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5344Louie/5344Louie/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/5344Louie/5344Louie/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5344Luc/5344Luc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5344Luc/5344Luc/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/5344Luc/5344Luc/output/github-contribution-grid-snake.svg">
 </picture>
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
