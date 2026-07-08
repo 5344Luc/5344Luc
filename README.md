@@ -37,7 +37,7 @@ I enjoy turning complex business workflows into clean, reliable, and maintainabl
 ## 🏢 Organizations
 <div align="center">
 
-![Delsan Software](https://img.shields.io/badge/Delsan_Software_Department-1a1a2e?style=for-the-badge&logo=buildkite&logoColor=white)
+[![DBIC-IT Software](https://img.shields.io/badge/DBIC--IT_Software-1a1a2e?style=for-the-badge&logo=buildkite&logoColor=white)](https://github.com/DBIC-IT-Software)
 
 </div>
 
