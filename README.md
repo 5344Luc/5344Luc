@@ -132,6 +132,7 @@ I enjoy turning complex business workflows into clean, reliable, and maintainabl
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5344Luc/5344Luc/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/5344Luc/5344Luc/output/github-contribution-grid-snake.svg">
 </picture>
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
