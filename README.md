@@ -34,7 +34,7 @@ I enjoy turning complex business workflows into clean, reliable, and maintainabl
 - Refactored and redesigned core timekeeping business logic to improve accuracy, maintainability, and performance.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/louie-cabataña-820185173) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louie-cabata%C3%B1a-820185173/) 
 
 ## Tech I Work With
 
