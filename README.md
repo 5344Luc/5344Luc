@@ -1,8 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C7B7&height=200&section=header&text=Louie%20Cabata%C3%B1a&fontSize=50&fontColor=fff&animation=fadeIn)
+
 <div align="center">
 
-## Hi, I'm Louie
-
-### Full-stack developer focused on HRIS, backend APIs, and database performance.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Louie;Full-stack+Developer;HRIS+%26+Backend+Specialist;SQL+Performance+Tuner)](https://git.io/typing-svg)
 
 I enjoy turning complex business workflows into clean, reliable, and maintainable software. My work focuses on HRIS systems, backend development, SQL performance tuning, clean architecture, and practical tools that help users work faster with better data.
 
@@ -16,6 +16,7 @@ I enjoy turning complex business workflows into clean, reliable, and maintainabl
 </div>
 
 ---
+
 # 💫 About Me:
 
 - I maintain, enhance, and optimize HRIS and business-critical systems.
@@ -33,8 +34,17 @@ I enjoy turning complex business workflows into clean, reliable, and maintainabl
 - Delivered system enhancements, new features, and performance improvements based on business requirements and user feedback.
 - Refactored and redesigned core timekeeping business logic to improve accuracy, maintainability, and performance.
 
+## 🏢 Organizations
+<div align="center">
+
+![Delsan Software](https://img.shields.io/badge/Delsan_Software_Department-1a1a2e?style=for-the-badge&logo=buildkite&logoColor=white)
+
+</div>
+
+> Private organization work — contribution details aren't publicly visible per org privacy settings, but activity is reflected in the stats below via private contribution counting.
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louie-cabata%C3%B1a-820185173/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louie-cabata%C3%B1a-820185173/)
 
 ## Tech I Work With
 
@@ -51,7 +61,7 @@ I enjoy turning complex business workflows into clean, reliable, and maintainabl
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
@@ -61,21 +71,17 @@ I enjoy turning complex business workflows into clean, reliable, and maintainabl
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
 </div>
 
 ### 🗄️ Database
 <div align="center">
 
-<!--![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)-->
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -94,7 +100,7 @@ I enjoy turning complex business workflows into clean, reliable, and maintainabl
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -120,6 +126,13 @@ I enjoy turning complex business workflows into clean, reliable, and maintainabl
 ![](https://streak-stats.demolab.com/?user=5344Luc&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=5344Luc&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5344Louie/5344Louie/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5344Louie/5344Louie/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/5344Louie/5344Louie/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
@@ -128,5 +141,7 @@ I enjoy turning complex business workflows into clean, reliable, and maintainabl
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=5344Luc&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0E75B6&height=100&section=footer)
 
 [![](https://komarev.com/ghpvc/?username=5344Luc&icon=0&color=0)](https://visitcount.itsvg.in)
