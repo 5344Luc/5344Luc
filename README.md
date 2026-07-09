@@ -37,7 +37,7 @@ I enjoy turning complex business workflows into clean, reliable, and maintainabl
 ## 🏢 Organizations
 <div align="center">
 
-[![DBIC-IT Software](https://img.shields.io/badge/DBIC--IT_Software-1a1a2e?style=for-the-badge&logo=buildkite&logoColor=white)](https://github.com/DBIC-IT-Software)
+[![DBIC-IT (Software)](https://img.shields.io/badge/DBIC--IT_(Software)-1a1a2e?style=for-the-badge&logo=buildkite&logoColor=white)](https://github.com/DBIC-IT-Software)
 
 </div>
 
@@ -122,9 +122,9 @@ I enjoy turning complex business workflows into clean, reliable, and maintainabl
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=5344Luc&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=5344Luc&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=5344Luc&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](./profile/stats.svg)<br/>
+![](./profile/streak.svg)<br/>
+![](./profile/top-langs.svg)
 
 ### 🐍 Contribution Snake
 <picture>
